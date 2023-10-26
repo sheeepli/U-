@@ -1,0 +1,80 @@
+@import url("./reset.css");
+
+body {
+    padding-top: 10.62rem;
+}
+.top {
+  text-align: center;
+  margin-bottom: 15rem;
+
+}
+.logo {
+  width: 11.32rem;
+  margin: 0 auto;
+}
+.logo img {
+  display: block;
+  width: 100%;
+}
+.company-name {
+  font-size: 4.2594rem;
+  font-weight: bold;
+  letter-spacing: 0.6rem;
+}
+.desc {
+  font-size: 1.71rem;
+  color: #717171;
+}
+
+.idea {
+  margin-bottom: 6rem;
+  text-align: center;
+  font-size: 3.1616rem;
+  font-weight: bold;
+  font-style: italic;
+}
+.idea .pink {
+  color: #9842b4;
+}
+.idea .purple {
+  color: #424bb4;
+}
+.idea .normal {
+  font-size: 2.2064rem;
+  font-weight: normal;
+}
+
+.input {
+    margin-bottom: 5rem;
+}
+
+.input input {
+  display: block;
+  margin: 0 auto;
+  background: url("../assets/login/登录.png");
+  background-size: 2.05rem 4.16rem;
+  background-repeat: no-repeat;
+  background-position: 3.3rem center;
+  width: 39.09rem;
+  border: 0.2rem #696969 solid;
+  height: 7.56rem;
+  border-radius: 3.78rem;
+  box-sizing: border-box;
+  padding: 0 6.78rem;
+  font-size: 3.1616rem;
+  outline: none;
+}
+
+.login-btn {
+    margin: 0 auto;
+  width: 16.5rem;
+  text-align: center;
+  height: 5.89rem;
+  line-height: 5.89rem;
+  border-radius: 2.945rem;
+  background-color: #424bb4;
+  color: #fff;
+  font-size: 3.125rem;
+
+  /* letter-spacing: 1.6rem; */
+}
