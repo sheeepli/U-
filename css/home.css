@@ -199,13 +199,13 @@
 .tabbar-item.workBench .tabbar-item_icon {
   background-image: url("../assets/home/workBench.png");
 }
-.tabbar-item.workBench .tabbar-item_icon.active {
+.tabbar-item.workBench.active .tabbar-item_icon {
   background-image: url("../assets/home/workBench-active.png");
 }
 
 .tabbar-item.userCenter .tabbar-item_icon {
   background-image: url("../assets/home/userCenter.png");
 }
-.tabbar-item.userCenter .tabbar-item_icon.active {
+.tabbar-item.userCenter.active .tabbar-item_icon {
   background-image: url("../assets/home/userCenter-active.png");
 }
