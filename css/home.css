@@ -10,16 +10,15 @@
   font-size: 1.6623rem;
   margin-bottom: 1.75rem;
   align-items: center;
-  font-weight: bold;
-}
-.user-info .avatar {
-    height: 3.46rem;
-    width: 3.46rem;
-    border-radius: 50%;
-    background: #c2c7d3;
-    margin-right: .6rem;
 }
 
+.user-info .avatar {
+  height: 3.46rem;
+  width: 3.46rem;
+  border-radius: 50%;
+  background: #c2c7d3;
+  margin-right: 0.6rem;
+}
 
 .banner {
   border-radius: 1.5rem;

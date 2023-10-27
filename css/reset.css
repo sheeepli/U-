@@ -23,10 +23,15 @@ select {
 }
 
 body {
-  font-family: "思源黑体";
+  font-family: "SourceHanSansCN";
   /* font: 12px "思源黑体", "Arial Narrow", HELVETICA; */
   background: #fff;
   -webkit-text-size-adjust: 100%;
+}
+
+@font-face {
+  font-family: "SourceHanSansCN";
+  src: url("../assets/fonts/SourceHanSansCN-Bold.otf");
 }
 
 a {
